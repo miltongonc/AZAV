@@ -1,0 +1,52 @@
+
+body{
+    background-image: url(../pictures/bolo3.jpg) ;
+    background-repeat: no-repeat;
+    margin: 0;
+    
+    
+    
+    
+}
+.titel{
+    margin-bottom: 2px;
+    border-bottom: 1px solid rgba(147, 143, 143, 0.483);
+    border-width: 40%;
+}
+div {
+    background-color: rgba(101, 37, 37, 0.164);
+    padding: 1px;
+    margin: 0;
+}
+.div1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Cinzel Decorative', cursive;
+    color: rgba(126, 51, 147, 0.439);
+    }
+
+
+.prep{
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Cinzel Decorative', cursive;
+    color: rgb(126, 51, 147);
+
+}
+
+    
+
+.div2{
+    
+    font-size: larger;
+    font-family: 'Pinyon Script', cursive;
+    color: rgb(126, 51, 147);
+    
+    
+}
+.div3{
+    font-size: larger;
+    font-family: 'Pinyon Script', cursive;
+    color: rgb(126, 51, 147);
+}
+

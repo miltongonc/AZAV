@@ -1,0 +1,14 @@
+*{
+    background-image: url(../pictures/t-bone.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    
+   
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    text-align: center;
+    
+}

@@ -1,0 +1,28 @@
+* {
+  margin: 5px;
+  padding: 0;
+}
+h1,
+h2 {
+  color: rgba(208, 24, 24, 0.803);
+}
+p {
+  color: rgba(176, 4, 4, 0.673);
+  background-color: aqua;
+}
+.bsp2 {
+  color: rgb(21, 30, 30);
+}
+.bsp4 {
+  color: rgb(39, 84, 233);
+}
+#bsp1 {
+  background-color: rgb(222, 232, 26);
+}
+div {
+  background-color: blue;
+}
+div p {
+  color: rgb(39, 27, 212);
+  background-color: rgba(246, 15, 15, 0.935);
+}

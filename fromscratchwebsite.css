@@ -1,0 +1,61 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background: white;
+  background-image: url(wine.jpg);
+}
+.div1 {
+  background-image: url(restaurantbackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+  margin-bottom: 7cm;
+}
+
+/* .div3:hover{
+  } */
+
+
+.barItem1 {
+  color: rgb(255, 255, 255);
+  font-size: xx-large;
+}
+
+.para1 {
+  font-size: 90px;
+  text-align: center;
+
+  color: rgb(255, 1, 1);
+}
+.para2 {
+  font-size: 40px;
+  font-kerning: initial;
+  font-weight: bold;
+  text-align: center;
+  color: beige;
+}
+
+.hour {
+  width: 40%;
+
+  text-align: left;
+  font-size: larger;
+}
+
+.div2 {
+  width: 150%;
+  font-weight: bold;
+  color: aliceblue;
+  text-decoration-line: underline;
+  font-size: 30px;
+  padding: 6px;
+}
+
+.div4 {
+  font-size: x-large;
+}
+.input1 {
+  width: 50%;
+  height: 40px;
+}
